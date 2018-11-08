@@ -31,4 +31,5 @@ int main()
     printf("Hello World");
 
     return 0;
+ int hi;
 }
