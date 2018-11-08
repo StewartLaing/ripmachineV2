@@ -8,7 +8,7 @@
  * 
  * Author: Wiktor Jurek, Reg no: 201720644
  * Author: Stewart Laing, Reg no: 201711046
- * Author: YOUR_FULL_NAME, Reg no: YOUR_REGISTRATION_NUMBER
+ * Author: Max, Reg no: 201740733
  * Author: YOUR_FULL_NAME, Reg no: YOUR_REGISTRATION_NUMBER
  * Author: YOUR_FULL_NAME, Reg no: YOUR_REGISTRATION_NUMBER
  *
